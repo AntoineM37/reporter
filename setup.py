@@ -5,7 +5,7 @@ from setuptools import find_packages
 DISTNAME = "reporter"
 
 MAJOR = 0
-MINOR = 0
+MINOR = 4
 MICRO = 1
 ISRELEASED = False
 VERSION = f"{MAJOR}.{MINOR}.{MICRO}"
